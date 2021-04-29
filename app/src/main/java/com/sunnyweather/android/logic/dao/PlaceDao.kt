@@ -1,7 +1,6 @@
 package com.sunnyweather.android.logic.dao
 
 import android.content.Context
-import android.provider.Settings.Global.putString
 import androidx.core.content.edit
 import com.google.gson.Gson
 import com.sunnyweather.android.SunnyWeatherApplication
